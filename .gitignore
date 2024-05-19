@@ -1,0 +1,6 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+# virtual env
+.venv
+# env conf
+.env
